@@ -1,4 +1,7 @@
+@import url(https://fonts.googleapis.com/css2?family=Kumbh+Sans);
+
 body {
+  font-family: "Kumbh Sans";
   background-image: url(images/bg-pattern-top.svg);
   background-size: 800px;
   background-color: rgb(0, 182, 199);
